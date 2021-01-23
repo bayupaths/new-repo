@@ -1,0 +1,9 @@
+Rencana saya selama liburan semester
+1. Belajar bahasa pemrograman
+  - javaScript
+  - PHP
+2. Belajar Framework
+  - Framework PHP
+    * Codeigitier
+  - Framework javaScript
+    * React JS
